@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am a machine learning and AI enthusiast with a passion for natural language processing. Aside from programming, I am a language and space nerd.
+
+I'm currently studying computational linguistics at the University of Washington.
 
 <!--
 **IronJam/IronJam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
